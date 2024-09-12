@@ -65,7 +65,7 @@ Dentro da main, no menu superior, clique no ícone de Run (seta verde) ou pressi
 
 Aparecerá uma mensagem de ação no console logo abaixo, interaja para realizar alguma ação.
 
-### 📚 Tecnologias Utilizadas
+## 📚 Tecnologias Utilizadas
 
 - Java 1.8.102 - Linguagem principal
 - IntelliJ IDEA 2023 - IDE recomendada
